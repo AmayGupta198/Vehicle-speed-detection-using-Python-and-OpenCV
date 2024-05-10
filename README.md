@@ -16,3 +16,8 @@ The vehicle detection code file is instrumental in identifying vehicles within v
 # Speed Detection
 the speed detection code file estimates vehicle speeds. Leveraging techniques like optical flow or frame differencing, I calculate vehicle movement between frames. Data logging functionalities capture essential information such as vehicle IDs and estimated speeds for analysis. Additionally, we capture images of detected vehicles to visually verify speed estimations. 
 
+
+# PyCharm
+
+Using PyCharm, we can easily run our code to track car speeds. When I run the code, it calculates the speed of cars in the video. The data from this calculation gets saved in a folder named "traffic record." PyCharm makes it simple to run our code and see the results, helping us monitor traffic speed effectively.
+
