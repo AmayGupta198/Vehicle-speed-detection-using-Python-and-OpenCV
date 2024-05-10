@@ -3,8 +3,11 @@ The project employs Python and OpenCV to detect vehicle speeds accurately throug
 
 # Objective
 The objective of this projects is:
+
 Vehicle Detection
+
 Speed estimation
+
 Capturing vehicle image
 
 # Vehicle Detection
